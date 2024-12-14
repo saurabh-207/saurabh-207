@@ -1,6 +1,6 @@
-<h2 align="center">Hey Developers 👋! Saurabh Here</h2>
+<h2 align="center">Hey Developers! <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Animation%20-%201734179129535.gif" width="40" height="40" />Saurabh Here</h2>
 
-###
+### 
 
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
@@ -14,123 +14,111 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on- Expertdigi Website<br>🌱 I’m currently learning- JAVA<br>👨‍💻 All of my projects are available at -https://github.com/saurabh-207<br>📄 Know about my experiences-</h3>
+<h3 align="left"><img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Telescope.gif" width="50" height="50" /> I’m currently working on- Expertdigi Website<br><br><img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Plant.gif" width="40" height="40" /> I’m currently learning- JAVA<br><br><img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Laptop.gif" width="40" height="40" /> All of my projects are available at -https://github.com/saurabh-207<br><br><img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Page.gif" width="40" height="40" /> Know about my experiences-</h3>
 
 ###
 
-<h2 align="left">🏆 Skills</h2>
+<h2 align="left"> <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/trophy.gif" width="40" height="40" /> Skills</h2>
 
 ###
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th><h3>Programming Languages</h3></th>
+                <th><h3>Frontend Development</h3></th>
+                <th><h3>Backend Development</h3></th>
+                <th><h3>Mobile App Development</h3></th>
+                <th><h3>Database</h3></th>
+                <th><h3>Software</h3></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <div align="left">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+                        <img width="18" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+                        <img width="18" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Python.gif" height="40" alt="python logo" />
+                        <img width="18" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+                        <img width="18" />
+                        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="javascript logo" />
+                    </div>
+                </td>
+                <td>
+                    <div align="left">
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/HTML.gif" height="40" alt="html5 logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/css.gif" height="40" alt="css3 logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/React.gif" height="40" alt="react logo" />
+                    </div>
+                </td>
+                <td>
+                    <div align="left">
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Node.gif" height="40" alt="nodejs logo" />
+                    </div>
+                </td>
+                <td>
+                    <div align="left">
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Android.gif" height="40" alt="androidstudio logo" />
+                    </div>
+                </td>
+                <td>
+                    <div align="left">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+                        <img width="18" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Mongodb.gif" height="40" alt="mongodb logo" />
+                    </div>
+                </td>
+                <td>
+                    <div align="left">
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/VSCode.gif" height="40" alt="visualstudio logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Github.gif" height="40" alt="github logo" />
+                        <img width="18" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Git.gif" height="40" alt="git logo" />
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
 
-<h3 align="left">💻 Programming Language</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">🌐 Frontend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">🌐 Backend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">📱Mobile App Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">🛢 Database</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">⚙️Software</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">📩 SOCIAL</h2>
+<h2 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFwa3l6MzRhOWoyaHN0NXhtNnd1emE2ZHdrN2s5cG9ydDZjejB1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/chWLik9uddHFYRFEeu/giphy.gif" width="40" height="40" /> SOCIAL</h2>
 
 ###
 
 <div align="left">
-  <a href="youtube.com/@rider.207" target="_blank">
+  <a href="https://youtube.com/@rider.207" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/rider_official_207" target="_blank">
+  <a href="https://instagram.com/rider_official_207" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
   </a>
-  <a href="facebook.com/saurabh.matane" target="_blank">
+  <a href="https://facebook.com/saurabh.matane" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
   </a>
-  <a href="discord.gg/XxTRFqP9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
+  <a href="https://discord.gg/768788849165074462" target="blank">
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Discord.gif" width="58" height="58" alt="discord logo"  />
   </a>
   <a href="saurabhmatane207@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/saurabh-matane-r500207" target="_blank">
+  <a href="https://linkedin.com/in/saurabh-matane-r500207" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-  <a href="x.com/saurabhmatane?s=11" target="_blank">
+  <a href="https://x.com/saurabhmatane?s=11" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
-  <a href="t.me/riderofficial207" target="_blank">
+  <a href="https://t.me/riderofficial207" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
 </div>
@@ -146,7 +134,7 @@
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31ykaerkry2qca2m4c4vyxkoiali" target="_black">
+  <a href="https://open.spotify.com/user/31ykaerkry2qca2m4c4vyxkoiali" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykaerkry2qca2m4c4vyxkoiali&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
