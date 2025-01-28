@@ -98,28 +98,28 @@
 
 <div align="left">
   <a href="https://youtube.com/@rider.207" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Youtube.gif" width="58" height="58" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/rider_official_207" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Instagram.gif" width="58" height="58" alt="instagram logo"  />
   </a>
   <a href="https://facebook.com/saurabh.matane" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Facebook.gif" width="58" height="58" alt="facebook logo"  />
   </a>
   <a href="https://discord.gg/768788849165074462" target="blank">
     <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Discord.gif" width="58" height="58" alt="discord logo"  />
   </a>
   <a href="saurabhmatane207@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Gmail.gif" width="58" height="58" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/saurabh-matane-r500207" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/LinkedIn.gif" width="58" height="58" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/saurabhmatane?s=11" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="58" alt="twitter logo"  />
   </a>
   <a href="https://t.me/riderofficial207" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
+    <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Telegram.gif" width="58" height="58" alt="telegram logo"  />
   </a>
 </div>
 
