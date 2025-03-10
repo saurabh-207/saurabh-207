@@ -42,7 +42,7 @@
                         <img width="18" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
                         <img width="18" />
-                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Java.gif" height="40" alt="java logo" />
+                        <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Java.gif" alt="java logo" />
                         <img width="18" />
                         <img src="https://github.com/GitCraft-207/Github-Customize-Readme-Items/blob/main/Python.gif" height="40" alt="python logo" />
                         <img width="18" />
